@@ -1,0 +1,15 @@
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\EmployeeApp.DataAccess.deps.json
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\EmployeeApp.DataAccess.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\ref\EmployeeApp.DataAccess.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\EmployeeApp.DataAccess.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.AssemblyInfoInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.AssemblyInfo.cs
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\ref\EmployeeApp.DataAccess.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\bin\Debug\net5.0\EmployeeApp.Core.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.csproj.AssemblyReference.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.DataAccess\obj\Debug\net5.0\EmployeeApp.DataAccess.csproj.CopyComplete

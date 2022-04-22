@@ -1,0 +1,12 @@
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\bin\Debug\net5.0\EmployeeApp.Core.deps.json
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\bin\Debug\net5.0\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\bin\Debug\net5.0\ref\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\bin\Debug\net5.0\EmployeeApp.Core.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.AssemblyInfoInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.AssemblyInfo.cs
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.csproj.CoreCompileInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\ref\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Core\obj\Debug\net5.0\EmployeeApp.Core.csproj.AssemblyReference.cache

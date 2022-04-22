@@ -1,0 +1,15 @@
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\EmployeeApp.Business.deps.json
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\EmployeeApp.Business.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\ref\EmployeeApp.Business.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\EmployeeApp.Business.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.csproj.AssemblyReference.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.AssemblyInfoInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.AssemblyInfo.cs
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.csproj.CoreCompileInputs.cache
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\ref\EmployeeApp.Business.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\EmployeeApp.Core.dll
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\bin\Debug\net5.0\EmployeeApp.Core.pdb
+D:\EmployeeApp\EmployeeApp\EmployeeApp.Business\obj\Debug\net5.0\EmployeeApp.Business.csproj.CopyComplete
